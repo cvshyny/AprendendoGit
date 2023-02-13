@@ -7,3 +7,9 @@ adiconei uma ramficicao
 
 voltando para a ramficacao original
 jutando linhas 
+Testando algo interessante
+vou usar o comando "git checkout -b nova-variacao"
+para criar uma "ramificação" se posso assim dizer.
+
+voltando para a ramficacao original
+jutando linhas 
